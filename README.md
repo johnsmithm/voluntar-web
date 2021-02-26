@@ -1,4 +1,4 @@
-# VoluntarWeb
+# VoluntarWeb 
 
 > This is a companion app for [`voluntar-backend`](https://github.com/code4moldova/voluntar-backend)
 
